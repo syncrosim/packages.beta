@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package
   name="stsim"
-  version="3.4.3"
-  location="https://github.com/ApexRMS/stsim/releases/download/3.4.3/stsim-3-4-3.ssimpkg"
+  version="3.4.4"
+  location="https://github.com/ApexRMS/stsim/releases/download/3.4.4/stsim-3-4-4.ssimpkg"
   type="Base"
   description="The ST-Sim state-and-transition simulation model"
-	minSyncroSimVersion="2.5.0"
+	minSyncroSimVersion="2.5.7"
   url="https://docs.stsim.net/">
 </package>

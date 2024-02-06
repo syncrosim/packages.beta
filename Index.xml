@@ -61,8 +61,8 @@
   </package>
   <package
     name="epiModelVocVaccine"
-    version="1.0.3"
-    location="https://github.com/ApexRMS/epiModelVocVaccine/releases/download/1.0.3/epiModelVocVaccine-1-0-3.ssimpkg"
+    version="1.1.0"
+    location="https://github.com/ApexRMS/epiModelVocVaccine/releases/download/1.1.0/epiModelVocVaccine-1-1-0.ssimpkg"
     type="Add-on to epi"
     description="Integrates VOCs and vaccination into the Epi model"
     requires="epi"
@@ -78,24 +78,24 @@
   </package>
   <package
     name="helloworldConda"
-    version="1.0.2"
-    location="https://github.com/ApexRMS/helloworldConda/releases/download/1.0.2/helloworldConda-1-0-2.ssimpkg"
+    version="1.1.0"
+    location="https://github.com/ApexRMS/helloworldConda/releases/download/1.1.0/helloworldConda-1-1-0.ssimpkg"
     type="Base"
     description="Example using conda environments"
     url="https://apexrms.github.io/helloworldEnhanced/">
   </package>
   <package
     name="helloworldPipeline"
-    version="1.0.0"
-    location="https://github.com/ApexRMS/helloworldPipeline/releases/download/1.0.0/helloworldPipeline-1-0-0.ssimpkg"
+    version="1.1.0"
+    location="https://github.com/ApexRMS/helloworldPipeline/releases/download/1.1.0/helloworldPipeline-1-1-0.ssimpkg"
     type="Base"
     description="Example using pipelines"
     url="https://apexrms.github.io/helloworldEnhanced/">
   </package>
   <package
     name="helloworldSpatial"
-    version="1.0.6"
-    location="https://github.com/ApexRMS/helloworldSpatial/releases/download/1.0.6/helloworldSpatial-1-0-6.ssimpkg"
+    version="1.1.0"
+    location="https://github.com/ApexRMS/helloworldSpatial/releases/download/1.1.0/helloworldSpatial-1-1-0.ssimpkg"
     type="Base"
     description="Example using spatial data"
     url="https://apexrms.github.io/helloworldEnhanced/">
@@ -110,8 +110,8 @@
   </package>
   <package
     name="helloworldUncertainty"
-    version="1.0.0"
-    location="https://github.com/ApexRMS/helloworldUncertainty/releases/download/1.0.0/helloworldUncertainty-1-0-0.ssimpkg"
+    version="1.1.0"
+    location="https://github.com/ApexRMS/helloworldUncertainty/releases/download/1.1.0/helloworldUncertainty-1-1-0.ssimpkg"
     type="Base"
     description="Example using iterations to represent uncertainty"
     url="https://apexrms.github.io/helloworldEnhanced/">
@@ -169,11 +169,11 @@
   </package>
   <package
     name="stsim"
-    version="3.4.3"
-    location="https://github.com/ApexRMS/stsim/releases/download/3.4.3/stsim-3-4-3.ssimpkg"
+    version="3.4.4"
+    location="https://github.com/ApexRMS/stsim/releases/download/3.4.4/stsim-3-4-4.ssimpkg"
     type="Base"
     description="The ST-Sim state-and-transition simulation model"
-  	minSyncroSimVersion="2.5.0"
+  	minSyncroSimVersion="2.5.7"
     url="https://docs.stsim.net/">
   </package>
   <package
