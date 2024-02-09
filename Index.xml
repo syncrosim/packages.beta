@@ -101,11 +101,27 @@
     url="https://apexrms.github.io/helloworldEnhanced/">
   </package>
   <package
+    name="helloworldSpatialPy"
+    version="1.0.0"
+    location="https://github.com/ApexRMS/helloworldSpatialPy/releases/download/1.0.0/helloworldSpatial-1-0-0.ssimpkg"
+    type="Base"
+    description="Example demonstrating how to use spatial data with a python model"
+    url="https://apexrms.github.io/helloworldEnhanced/">
+  </package>
+  <package
     name="helloworldTime"
     version="1.0.0"
     location="https://github.com/ApexRMS/helloworldTime/releases/download/1.0.0/helloworldTime-1-0-0.ssimpkg"
     type="Base"
     description="Example using timesteps"
+    url="https://apexrms.github.io/helloworldEnhanced/">
+  </package>
+  <package
+    name="helloworldTimePy"
+    version="1.0.0"
+    location="https://github.com/ApexRMS/helloworldTimePy/releases/download/1.0.0/helloworldTimePy-1-0-0.ssimpkg"
+    type="Base"
+    description="Example demonstrating how to use timesteps with a python model"
     url="https://apexrms.github.io/helloworldEnhanced/">
   </package>
   <package
