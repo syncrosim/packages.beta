@@ -2,7 +2,7 @@
 <package
   name="helloworldSpatialPy"
   version="1.0.0"
-  location="https://github.com/ApexRMS/helloworldSpatialPy/releases/download/1.0.0/helloworldSpatial-1-0-0.ssimpkg"
+  location="https://github.com/ApexRMS/helloworldSpatialPy/releases/download/1.0.0/helloworldSpatialPy-1-0-0.ssimpkg"
   type="Base"
   description="Example demonstrating how to use spatial data with a python model"
   url="https://apexrms.github.io/helloworldEnhanced/">
