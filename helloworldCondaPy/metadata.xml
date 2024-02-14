@@ -2,7 +2,7 @@
 <package
   name="helloworldCondaPy"
   version="1.0.0"
-  location="https://github.com/ApexRMS/helloworldConda/releases/download/1.0.0/helloworldCondaPy-1-0-0.ssimpkg"
+  location="https://github.com/ApexRMS/helloworldCondaPy/releases/download/1.0.0/helloworldCondaPy-1-0-0.ssimpkg"
   type="Base"
   description="Example demonstrating using conda environments with a python model"
   url="https://apexrms.github.io/helloworldEnhanced/">
