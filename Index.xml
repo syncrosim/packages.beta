@@ -81,7 +81,15 @@
     version="1.1.0"
     location="https://github.com/ApexRMS/helloworldConda/releases/download/1.1.0/helloworldConda-1-1-0.ssimpkg"
     type="Base"
-    description="Example using conda environments"
+    description="Example demonstrating using conda environments"
+    url="https://apexrms.github.io/helloworldEnhanced/">
+  </package>
+  <package
+    name="helloworldCondaPy"
+    version="1.0.0"
+    location="https://github.com/ApexRMS/helloworldConda/releases/download/1.0.0/helloworldCondaPy-1-0-0.ssimpkg"
+    type="Base"
+    description="Example demonstrating using conda environments with a python model"
     url="https://apexrms.github.io/helloworldEnhanced/">
   </package>
   <package
