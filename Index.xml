@@ -223,7 +223,7 @@
     version="3.3.2"
     location="https://github.com/ApexRMS/stsimecodep/releases/download/3.3.2/stsimecodep-3-3-2.ssimpkg"
     type="Add-on to stsim"
-    description="SyncroSim Add-On Package (to stsim) for calculating TNC's unified ecological departure from reference conditions in ST-Sim [*** REQUIRES SyncroSim v2.2.3 or higher ***]"
+    description="SyncroSim Add-On Package (to stsim) for calculating TNC's unified ecological departure from reference conditions in ST-Sim"
     requires="stsim"
     url="https://docs.stsim.net/">
   </package>
