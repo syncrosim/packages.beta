@@ -10,8 +10,8 @@
   </package>
   <package
     name="burnP3PlusCell2Fire"
-    version="1.1.0"
-    location="https://github.com/BurnP3/burnP3PlusCell2Fire/releases/download/1.1.0/burnP3PlusCell2Fire-1-1-0.ssimpkg"
+    version="1.1.1"
+    location="https://github.com/BurnP3/burnP3PlusCell2Fire/releases/download/1.1.1/burnP3PlusCell2Fire-1-1-1.ssimpkg"
     type="Add-on to burnP3Plus"
     description="Cell2Fire fire growth model add-on package for BurnP3+"
     requires="burnP3Plus"
@@ -19,8 +19,8 @@
   </package>
   <package
     name="burnP3PlusPrometheus"
-    version="1.1.0"
-    location="https://github.com/BurnP3/burnP3PlusPrometheus/releases/download/1.1.0/burnP3PlusPrometheus-1-1-0.ssimpkg"
+    version="1.1.1"
+    location="https://github.com/BurnP3/burnP3PlusPrometheus/releases/download/1.1.1/burnP3PlusPrometheus-1-1-1.ssimpkg"
     type="Add-on to burnP3Plus"
     description="Prometheus fire growth model add-on package for BurnP3+"
     requires="burnP3Plus"
